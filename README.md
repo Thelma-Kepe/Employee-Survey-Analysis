@@ -18,3 +18,4 @@ An analysis of an employee engagement survey conducted by Pierce County, WA, exa
 3. Recommended actions: build structured teamwork, cross-functional projects, and team social events to address the workplace-friendship gap; introduce a regular, structured recognition process built into one-to-ones to address the praise gap; and standardise performance-review practices so accountability is applied consistently across supervisors.
 
 ## Project Files
+[Employee Survey Analysis Workbook](https://github.com/Thelma-Kepe/Employee-Survey-Analysis/blob/main/HR%20Employee%20Survey%20Responses.xlsx)
