@@ -19,3 +19,14 @@ An analysis of an employee engagement survey conducted by Pierce County, WA, exa
 
 ## Project Files
 [Employee Survey Analysis Workbook](https://github.com/Thelma-Kepe/Employee-Survey-Analysis/blob/main/HR%20Employee%20Survey%20Responses.xlsx)
+
+## Dashboard Preview
+
+<img width="636" height="279" alt="Screenshot 2026-10-02 at 20 23 14" src="https://github.com/user-attachments/assets/7541fdd3-d424-460b-bf9f-2f7172dd6dac" />
+
+<img width="751" height="564" alt="Screenshot 2026-10-02 at 20 25 35" src="https://github.com/user-attachments/assets/0f354a5b-b4dd-4b4c-b627-d2472c083387" />
+
+<img width="753" height="536" alt="Screenshot 2026-10-02 at 20 25 55" src="https://github.com/user-attachments/assets/2a8811fb-ac28-4863-9bc9-41b944d2c3f5" />
+
+
+
